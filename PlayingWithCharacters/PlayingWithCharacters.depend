@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1579039814 source:/home/aizen741/Desktop/HackerRank-C-Language-ProficiencySolutions/PlayingWithCharacters/main.c
+	<stdio.h>
+	<stdlib.h>
+
